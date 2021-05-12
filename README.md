@@ -1,2 +1,2 @@
-# demo-php
-demo for php
+# code-php
+demo code for php
